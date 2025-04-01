@@ -43,13 +43,13 @@
 
 
 Изученные команды:
-41. add
-42. commit
-43. push
-44. pull
-45. merge
-46. rebase
-47. revert
-48. reset
-49. branch
-50. checkout
+1. add
+2. commit
+3. push
+4. pull
+5. merge
+6. rebase
+7. revert
+8. reset
+9. branch
+10. checkout
