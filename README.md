@@ -1,5 +1,4 @@
 План:
-
 1. создать в C:\Users\79178\Desktop\Golang папку ConsoleGitStudying
 2. открыть в cursor созданную папку
 3. git init
@@ -40,7 +39,10 @@
 38. git reset --hard HEAD~1
 39. git push origin main
 40. создать README.md, сделать и отправить commit README
-    Изученные команды:
+
+
+
+Изученные команды:
 41. add
 42. commit
 43. push
